@@ -50,7 +50,7 @@ cellules*. Lisez les commentaires Markdown entre les cellules de code.
 ### En local
 
 ```bash
-git clone https://github.com/VOTRE_USERNAME/mdi-air-cat.git
+git clone https://github.com/valorisa/mdi-air-cat.git
 cd mdi-air-cat
 pip install -r requirements.txt
 jupyter notebook notebook/mdi_air_cat_analysis.ipynb
