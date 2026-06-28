@@ -1,0 +1,6 @@
+numpy>=1.24.0
+matplotlib>=3.7.0
+ipywidgets>=8.0.0
+CoolProp>=6.4.0
+jupyter>=1.0.0
+pandas>=2.0.0
